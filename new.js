@@ -40,7 +40,7 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Fornted Developer",
+        "Fronted Developer",
         "Software Developer",
         "Python Developer"
       ],
